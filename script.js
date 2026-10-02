@@ -420,7 +420,7 @@ function celebrate() {
 // "2026-10-12T00:00:00+05:30"
 
 const birthdayDate = new Date(
-  "2026-09-12T00:00:00+05:30"
+  "2026-10-12T00:00:00+05:30"
 ).getTime();
 
 let countdownTimer;
