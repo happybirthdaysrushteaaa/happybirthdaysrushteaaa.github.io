@@ -2,7 +2,7 @@
    ✏️ CUSTOMIZE EVERYTHING HERE
    ============================================================ */
 const CONFIG = {
-  herName: "Srushteaaaa",
+  herName: "Srushteaaaa Putttaaa ❤️",
   yourName: "Chanduuuuu",
 
   // Change this to the secret code she needs to enter.
@@ -10,19 +10,63 @@ const CONFIG = {
 
   // Main text
   heroLine: "Today is a little more beautiful because you were born.",
-  finalMessage: "May your days be full of laughter, love, peace and everything your heart wishes for.",
+  finalMessage: `May your days be full of laughter, love, peace and everything your heart wishes for.`,
 
-  // Your birthday letter
-  letter: `Write your personal birthday letter here.
+// Your birthday letter
+letter: `My Srushteaaaa Puttaaa ❤️
 
-Tell her what she means to you, mention your favourite memories, thank her for being part of your life, and wish her everything beautiful.
+I don't know exactly when it happened, but somewhere between all our little conversations, silly moments, nervous meetings, endless talks and the memories we've made, you became someone who feels like a part of me.
 
-You can write multiple paragraphs here.`,
+When I think about us, I don't just remember the big moments. I remember the little things too. The way you look at me, the way your voice stays in my head, the way holding your hand can make an ordinary moment feel so special, and all those tiny moments that probably meant nothing to the rest of the world but mean everything to me.
+
+There is something between us that I find difficult to put into words. It's not just love. It's the comfort I feel when I'm with you. It's the feeling that I can be myself around you. It's missing you when you're not around. It's wanting to tell you every little thing that happens in my day. It's that strange happiness I get just knowing that somewhere in this world, you are there.
+
+You've seen different versions of me. The excited me, the nervous me, the stupid me, the emotional me, and probably the most annoying me too. 🙈 And somehow, you still stayed.
+
+I love how our connection has grown through all the little moments. From the first time I saw you, to the first time we actually met, to all the memories we've slowly created together. Every memory has added another little piece to what we are today.
+
+Sometimes I sit and think about how one random day, one look, one conversation could eventually become something this important to me. If I could go back to the beginning, I would still choose to walk into that studio, still look at you, and still let our story begin.
+
+I don't know what every tomorrow will look like, but I know one thing — I want more memories with you. More random conversations, more stupid fights, more laughter, more hugs, more adventures, more moments where we forget about everything else and just enjoy being together.
+
+Thank you for becoming such a beautiful part of my life.
+
+And on your birthday, I don't just wish that you get everything you want.
+
+I wish that you always have reasons to smile.
+I wish that you always feel loved.
+I wish that you never forget how special you are to me.
+And most importantly, I wish that whatever life brings us, we never lose this little connection that makes us... us.
+And I know you've trusted me enough to share your personal life, your thoughts, your feelings, and the parts of you that you don't show everyone.
+
+I know that kind of trust is something very precious, and I don't ever want you to question whether you made the right choice in trusting me.
+
+So there's one thing I want to promise you today — I will never, ever break the trust you've placed in me. I will always respect the things you've shared with me, protect your feelings, and be someone you can feel safe with.
+
+No matter what happens, the trust between us will always mean more to me than words can explain. ❤️
+
+Happy Birthday, my Srushteaaaaa putttaaa. ❤️
+
+You are not just a memory in my story.
+
+You became one of my favourite parts of it.
+
+With all my love,
+Chanduuuuu ❤️
+
+
+
+
+
+
+
+
+`,
 
   // Relationship timeline
   memories: [
     {
-  date: "DD • MONTH • 2026",
+  date: "18 • june • 2026",
   title: "Those Eyes",
   text: `I still remember the first time I saw your picture.
 
@@ -41,10 +85,10 @@ Even now, whenever I look at you,
 I still get lost in those same eyes
 that caught my attention the very first time. ❤️`
 },
-    {
-      date: "23 • June • 2026",
-      title: "The Beginning",
-      text: `I still remember the very first day we met.
+   {
+  date: "23 • June • 2026",
+  title: "The Beginning",
+  text: `I still remember the very first day we met.
 
 You were wearing a saree, sitting quietly to the left of the door.
 
@@ -58,13 +102,24 @@ It lasted only for a moment, but somehow, that moment stayed with me.
 
 Even today, I can close my eyes and remember that look exactly the way it was.
 
-Maybe you didn't know it then,
+And then somehow, I ended up sitting right next to you...
 
-but somewhere in that little moment,
+And honestly, I had absolutely no idea what I was supposed to do. 🙈
+
+I was so nervous, my brain had completely stopped working.
+
+I had a dessert with me, sitting right beside you, and instead of being normal and offering you some...
+
+I just sat there and ate it myself. 😭😂❤️
+
+Looking back now, I can't believe how nervous I was around you.
+
+but that awkward little moment is something I'll always remember with a smile.
+
+Because somewhere between that nervousness, that dessert, and that one unforgettable look,
 
 a beautiful story had already begun. ❤️`
-    },
-    {
+}, {
       date: "20 • August • 2026",
       title: "The Day We Met Again",
      text: `And then came the day we met again—
@@ -93,16 +148,78 @@ and that playful hit on my shoulder,
 I was already falling a little deeper. ❤️`
 
     },
-    {
-      date: "DD • MONTH • YEAR",
-      title: "That Day",
-      text: "Add another meaningful memory here."
-    },
-    {
-      date: "TODAY",
-      title: "And here we are ❤️",
-      text: "Write something about the journey you've shared so far."
-    }
+{
+  date: "09 • September • 2026",
+  title: "Our First Little Date ❤️",
+  text: `The first time I took you on my bike,
+   we went to California Burrito, and I was honestly so nervous.
+   I didn't even know how to talk to you properly,
+   but somehow I started a conversation and we just kept going. 
+   We talked about each other while holding hands, 
+   and then, with all the nervousness and butterflies in the world, I kissed your hand. 
+  ❤️ You were so shocked because you probably never thought I would do something like that. 
+  I still remember how nervous I was, 
+  but somehow that nervous little moment became one of the sweetest memories of us.`
+},
+
+{
+  date: "10 • September • 2026",
+  title: "The Day That Still Gives Me Butterflies ❤️",
+  text: `The very next day, 
+  I got you mallige hoovu and took you for tatte idli.
+   On the way, we had tender coconut, 
+   and then came one of those tiny moments I'll never forget — I fed you idli for the first time, and you fed me too. 
+   
+   ❤️ While crossing the road, I was holding your hand, and those butterflies... fuck yaar, 
+   
+   I still get them whenever I think about that moment. 
+   
+   🦋❤️ After that, we went for your favourite chai, 
+   where we had such a beautiful conversation. 
+   
+   ☠️😂 And later, we went to that little place near your hostel, behind the temple. 
+   We sat there and started talking about everything our feelings, our fears, our past, our emotions...
+   there were tears, there was love, 
+   and there was so much honesty between us. 
+   It felt like we weren't just talking anymore; 
+   we were slowly letting each other into our hearts. ❤️`
+},
+{
+  date: "28 • September • 2026",
+  title: "Our First Naughty Call 🙈❤️",
+  text: `Still, your voice keeps running through my head... 
+  🙈❤️ If you know, you know exactly what I'm talking about.
+   Some moments are just impossible to forget, 
+   and that call is definitely one of them.
+    I could listen to that voice forever...
+     till my last breath, 
+    I want to hear it from you. 🫣💕`
+},
+{
+  date: "TODAY",
+  title: "And here we are ❤️",
+  text: `Happy Birthday, Srushteaaaaa Puttaaaa. ❤️🎂
+
+And here we are...
+
+Sitting together, reading all of this on your birthday, and looking back at all the little moments that somehow became such a beautiful part of our story.
+
+From that very first look to all the memories we've created since then, I don't think I could have imagined that one ordinary day would bring me here — sitting beside you, celebrating you, and feeling so lucky to have you in my life.
+
+I hope while reading all of this, you smile at some memories, feel a few butterflies, and maybe even remember all those little moments the way I do. 🥹❤️
+
+And now that you've reached the end...
+
+I have just one last thing to ask you.
+
+Could you please come a little closer...
+
+and give me a big hug? 🫂❤️
+
+Happy Birthday once again, my Srushteaaaaa Puttaaaa. ❤️
+
+I love you.`
+}
   ],
 
   // Things you love about her
@@ -110,7 +227,7 @@ I was already falling a little deeper. ❤️`
     "Your smile can change my entire mood.",
     "The way you care about the little things.",
     "Your laugh.",
-    "The way you make ordinary moments special.",
+    "Your honesty",
     "Your kindness.",
     "The way you are simply yourself.",
     "Your beautiful heart.",
@@ -120,9 +237,9 @@ I was already falling a little deeper. ❤️`
   // Gallery — put your images inside assets/photos/
   photos: [
     { file: "assets/photos/photo1.jpg", caption: "Our first favourite memory." },
-    { file: "assets/photos/photo2.jpg", caption: "A moment I never want to forget." },
-    { file: "assets/photos/photo3.jpg", caption: "Just us ❤️" },
-    { file: "assets/photos/photo4.jpg", caption: "One of many beautiful days." },
+    { file: "assets/photos/photo2.jpg", caption: "A moment I want to recreate." },
+    { file: "assets/photos/photo3.jpg", caption: "The Eyes which made me to fall in love with you.❤️" },
+    { file: "assets/photos/photo4.jpg", caption: "Just Usssss. ❤️" },
     { file: "assets/photos/photo5.jpg", caption: "My favourite person." },
     { file: "assets/photos/photo6.jpg", caption: "Forever a special memory." }
   ]
@@ -290,43 +407,60 @@ function celebrate() {
   }
 }
 
-
-
 /* =========================================
    REAL-TIME BIRTHDAY COUNTDOWN
    October 12, 2026 - 12:00 AM IST
    ========================================= */
 
+// FOR TESTING:
+// October 12, 2026 is already past,
+// so the birthday website should open immediately.
+//
+// FINAL DATE:
+// "2026-10-12T00:00:00+05:30"
+
 const birthdayDate = new Date(
-  "2026-10-12T00:00:00+05:30"
+  "2026-09-12T00:00:00+05:30"
 ).getTime();
+
+let countdownTimer;
+
 
 function updateBirthdayCountdown() {
 
-  // Current real time
   const now = Date.now();
-
-  // Remaining milliseconds
   const difference = birthdayDate - now;
 
-  // Birthday reached
+
+  /* =========================================
+     BIRTHDAY DATE HAS PASSED
+     ========================================= */
+
   if (difference <= 0) {
 
-    document.getElementById("days").textContent = "00";
-    document.getElementById("hours").textContent = "00";
-    document.getElementById("minutes").textContent = "00";
-    document.getElementById("seconds").textContent = "00";
+    // Stop timer
+    if (countdownTimer) {
+      clearInterval(countdownTimer);
+    }
 
-    document
-      .getElementById("birthdayLock")
-      .classList.add("unlocked");
+    // Hide countdown using your existing CSS
+    const birthdayLock =
+      document.getElementById("birthdayLock");
 
-    clearInterval(countdownTimer);
+    if (birthdayLock) {
+      birthdayLock.classList.add("unlocked");
+    }
+
+    // Unlock the existing birthday website
+    document.body.classList.remove("birthday-locked");
 
     return;
   }
 
-  // Calculate remaining time
+
+  /* =========================================
+     CALCULATE COUNTDOWN
+     ========================================= */
 
   const totalSeconds = Math.floor(
     difference / 1000
@@ -348,7 +482,9 @@ function updateBirthdayCountdown() {
     totalSeconds % 60;
 
 
-  // Display actual countdown
+  /* =========================================
+     DISPLAY COUNTDOWN
+     ========================================= */
 
   document.getElementById("days").textContent =
     String(days).padStart(2, "0");
@@ -364,16 +500,13 @@ function updateBirthdayCountdown() {
 }
 
 
-/*
-   Run immediately when page loads
-*/
+/* =========================================
+   START
+   ========================================= */
+
 updateBirthdayCountdown();
 
-
-/*
-   Update every second
-*/
-const countdownTimer = setInterval(
+countdownTimer = setInterval(
   updateBirthdayCountdown,
   1000
 );
