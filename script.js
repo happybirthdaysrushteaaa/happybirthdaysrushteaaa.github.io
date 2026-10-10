@@ -10,7 +10,7 @@ const CONFIG = {
 
   // Main text
   heroLine: "Today is a little more beautiful because you were born.",
-  finalMessage: `May your days be full of laughter, love, peace and everything your heart wishes for.`,
+  finalMessage: `May your days be full of laughter, love, peace and everything your heart wishes for🫂❤️ ️`,
 
 // Your birthday letter
 letter: `My Srushteaaaa Puttaaa ❤️
@@ -52,7 +52,7 @@ You are not just a memory in my story.
 You became one of my favourite parts of it.
 
 With all my love,
-Chanduuuuu ❤️
+yours Chanduuuuu❤️
 
 
 
@@ -133,7 +133,7 @@ I still remember how nervous I was that day—
 trying to act normal while butterflies were having a festival inside me.
 Every little moment felt bigger than it should have.
 
-I even brought you a pair of socks as a little gift,
+I even got you a few pairs of socks as little gifts. ❤️
 probably trying to hide all that nervousness behind something simple.
 
 And then, in your excitement,
@@ -196,6 +196,58 @@ I was already falling a little deeper. ❤️`
     I want to hear it from you. 🫣💕`
 },
 {
+  date: "04 • October • 2026",
+  title: "Our First Shopping Date 🛍️❤️",
+  text: `Srushtteaaa puttaaa... 🥹❤️
+  Our first proper shopping date...
+
+  We went to DMart together, walking around and doing our little shopping,
+  and then went to Nexus Mall for some clothes shopping. 🛍️💕
+  And then came that shy little moment... 🙈
+  me figuring out your bra size with just my eyes...
+  don't know how I was supposed to act normal after that. 🫣😂❤️
+
+  Later, we went for dinner...
+  but somehow we barely ate.
+  Just momos and juice...
+  because suddenly, we both got overwhelmed with emotions. 🥹🫂
+
+  We started crying, sharing things with each other,
+  holding hands, supporting each other's shoulders,
+  hugging, wiping each other's tears...
+  and in that moment, I realised something.
+
+  I never thought I would open up like this with anyone in my life.
+  But with you, I somehow felt safe enough to show everything...
+  even the parts of me I usually hide. ❤️
+
+  And I'll never forget those words you told me
+  when I was completely emotionally down...
+
+  "naan irtini nim jothe" 🥹❤️
+
+  Those words stayed with me.
+  Maybe that's why we couldn't even finish our food...
+  our hearts were already completely full
+  with everything we were feeling. 🫂💕
+
+  And then, while going back...
+  I still don't know how that moment happened on the bike...
+  suddenly I had you close to me. 🫂❤️
+  I still remember that touch,
+  that pinch,
+  and the butterflies that came rushing through me. 🙈🫣❤️
+
+  Some days are just dates on a calendar...
+  but October 4th?
+  That's going to stay in my heart forever.
+
+  Our first shopping date.
+  Our first emotional dinner.
+  Our first time opening up like that.
+  And one more beautiful memory that belongs only to us. 🥹❤️`
+},
+{
   date: "TODAY",
   title: "And here we are ❤️",
   text: `Happy Birthday, Srushteaaaaa Puttaaaa. ❤️🎂
@@ -208,17 +260,10 @@ From that very first look to all the memories we've created since then, I don't 
 
 I hope while reading all of this, you smile at some memories, feel a few butterflies, and maybe even remember all those little moments the way I do. 🥹❤️
 
-And now that you've reached the end...
-
-I have just one last thing to ask you.
-
-Could you please come a little closer...
-
-and give me a big hug? 🫂❤️
 
 Happy Birthday once again, my Srushteaaaaa Puttaaaa. ❤️
 
-I love you.`
+I love you foreveeerrrrrrrrr.`
 }
   ],
 
@@ -241,7 +286,9 @@ I love you.`
     { file: "assets/photos/photo3.jpg", caption: "The Eyes which made me to fall in love with you.❤️" },
     { file: "assets/photos/photo4.jpg", caption: "Just Usssss. ❤️" },
     { file: "assets/photos/photo5.jpg", caption: "My favourite person." },
-    { file: "assets/photos/photo6.jpg", caption: "Forever a special memory." }
+    { file: "assets/photos/photo6.jpg", caption: "Forever a special memory." },
+    { file: "assets/photos/photo7.jpg", caption: "happy birthdayyyyyy." },
+    { file: "assets/photos/photo8.jpg", caption: "Forever a special memory." }
   ]
 };
 
